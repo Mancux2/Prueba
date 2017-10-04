@@ -1,5 +1,5 @@
-size(600,600);
-background(250,2,2);
+size(600,600); //Tamaño de Ventana
+background(250,2,2); //Color de Fondo
 int blanco=255;
 int rojo=250;
 fill(0,100,2);
